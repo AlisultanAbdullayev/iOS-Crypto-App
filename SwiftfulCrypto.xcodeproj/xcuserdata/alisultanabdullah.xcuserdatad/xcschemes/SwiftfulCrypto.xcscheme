@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "0274CD3E264783B5008099B6"
+               BuildableName = "SwiftfulCrypto.app"
+               BlueprintName = "SwiftfulCrypto"
+               ReferencedContainer = "container:SwiftfulCrypto.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "0274CD3E264783B5008099B6"
+            BuildableName = "SwiftfulCrypto.app"
+            BlueprintName = "SwiftfulCrypto"
+            ReferencedContainer = "container:SwiftfulCrypto.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
